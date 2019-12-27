@@ -6,6 +6,8 @@
 
 ## Demo:
 
+![demo](https://github.com/shangzhouye/search-and-navigation-public/blob/master/demo.png?raw=true)
+
 ## Overview:
 
 This repository is an assignment of ME469 Machine Learning and Artificial Intelligence for Robotics, 2019, NU. 
@@ -66,4 +68,4 @@ It implemented an A* search algorithm to generate 2-D path that navigates while 
 
 ## Report
 
-A more detailed report can be found here.
+A more detailed report can be found [here](https://github.com/shangzhouye/search-and-navigation-public/blob/master/ME469_report.pdf).
