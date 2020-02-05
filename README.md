@@ -10,9 +10,7 @@
 
 ## Overview:
 
-This repository is an assignment of ME469 Machine Learning and Artificial Intelligence for Robotics, 2019, NU. 
-
-It implemented an A* search algorithm to generate 2-D path that navigates while avoilding obstacles, as well as a controller that enables a differential wheeled robot to drive the path.
+This project implemented an A* search algorithm to generate 2-D path that navigates while avoilding obstacles, as well as a controller that enables a differential wheeled robot to drive the path.
 
 ## Environment
 
