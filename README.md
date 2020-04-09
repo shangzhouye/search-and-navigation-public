@@ -1,9 +1,5 @@
 # A* Search and Navigation
 
-*Shangzhou Ye, MSR, Northwestern Univerisity*
-
-**Skills: A\* algorithm, Grid-based search, path tracking, PID controller, differential drive robot**
-
 ## Demo:
 
 ![demo](https://github.com/shangzhouye/search-and-navigation-public/blob/master/demo.png?raw=true)
