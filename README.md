@@ -59,7 +59,3 @@ This project implemented an A* search algorithm to generate 2-D path that naviga
    - Figure 4~6 shows the navigation trajectory of the robot.
 
    - Figure 7~9 shows the navigation trajectory of the robot with the fine grid1 with 0.1m grid size.
-
-## Report
-
-A more detailed report can be found [here](https://github.com/shangzhouye/search-and-navigation-public/blob/master/ME469_report.pdf).
